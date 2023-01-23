@@ -46,8 +46,8 @@ body{
 
 .perfume{
     position: relative;
-    bottom: 50px;
-    right: 90px;
+    bottom: 30px;
+    right: 80px;
     font-size: 20px;
     color:  hsl(228, 12%, 48%);
     font-family: 'Fraunces', serif;
@@ -56,6 +56,9 @@ body{
 
 .para p{
      font-family: 'Fraunces', serif;
+     position: relative;
+    
+     top: 90;
      
      
 
@@ -64,9 +67,9 @@ body{
 .para{
     position: relative;
     
-    bottom:40px ;
+    top: 90;
     left: 30px;
-    font-size: 20px;
+    font-size: 25px;
     width: 250px;color:  hsl(228, 12%, 48%);
 
 }
